@@ -57,11 +57,9 @@ Outside of coding, I love writing, photography, and finding inspiration in every
 | NestaShots | A photography portfolio website with an interactive gallery and project details. | HTML, CSS, JavaScript |
 
 ---
+## 📊 GitHub Activity
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YolandaMbande&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YolandaMbande&theme=tokyo-night)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YolandaMbande&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YolandaMbande&theme=tokyonight&hide_border=true&mode=daily)

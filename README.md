@@ -60,8 +60,6 @@ Outside of coding, I love writing, photography, and finding inspiration in every
 
 ## 📊 GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/34b7a7/YolandaMbande)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YolandaMbande&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YolandaMbande&layout=compact&theme=tokyonight&hide_border=true" width="48%" />

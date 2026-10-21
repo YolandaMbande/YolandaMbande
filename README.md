@@ -1,76 +1,86 @@
-# Hi, I'm Yolanda! 👋🏽
 
-### Software Developer | Creative Thinker | Building Things That Matter
+<div align="center">
 
-I'm a South African software developer with a Diploma in Computer Science and hands-on experience building web applications, solving problems, and bringing ideas to life through code.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:06B6D4&height=220&section=header&text=Hi,%20I'm%20Yolanda!&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" width="100%"/>
 
-I enjoy working across front-end and back-end development, experimenting with new technologies, and creating projects that combine functionality with thoughtful design.
+<a href="https://github.com/YolandaMbande">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Creative+Thinker;PHP+%7C+Laravel+%7C+JavaScript+%7C+Java;Building+Things+That+Matter" alt="Typing SVG" />
+</a>
 
-Outside of coding, I love writing, photography, and finding inspiration in everyday life.
+<img src="https://komarev.com/ghpvc/?username=YolandaMbande&color=8b5cf6&style=flat&label=Profile+Views" />
 
----
+</div>
 
-## 🌸 About Me
+### 👩‍💻 About Me
 
-- 🎓 Diploma in Computer Science — Tshwane University of Technology
-- 💻 Experience in software development, debugging, database management, and web application development
-- 🛠️ Comfortable working with PHP, Laravel, JavaScript, Java, and MySQL
-- 🌱 Continuously improving my skills and exploring new technologies
-- ✨ Interested in building practical software that solves real-world problems
-- 📍 Based in Cape Town, South Africa
+I'm a software developer based in Cape Town, South Africa, with a Diploma in Computer Science from Tshwane University of Technology.
 
-## 💻 Tech Stack
+I've gained hands-on experience developing web applications, building features, debugging code, working with databases, and collaborating in Agile development environments.
 
-**Languages**
+I enjoy creating software that combines functionality with thoughtful design, and I'm particularly interested in building solutions that solve real-world problems.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- 🎯 **Goal:** Grow as a software engineer and build meaningful software
+- 📍 **Location:** Cape Town, South Africa
+- 🎓 **Education:** Diploma in Computer Science — TUT
+- 💼 **Experience:** Software development, web applications, and academic mentoring
+- 🔭 **Currently:** Building projects and exploring practical software business ideas
+- ✍️ **Beyond coding:** Writing, photography, and storytelling
 
-**Frameworks & Libraries**
+<br/>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### 🛠️ Tech Stack
 
-**Databases & Tools**
+<div align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<img src="https://skillicons.dev/icons?i=php,java,js,html,css,laravel,tailwind,bootstrap,mysql,git,github,wordpress,figma,vscode&theme=light" />
 
----
+</div>
 
-## 🚀 Featured Projects
+<br/>
 
-| Project | Description | Technologies |
+### 📌 Featured Projects
+
+| Project | Stack | Description |
 |---|---|---|
-| [Portfolio Website](https://github.com/YolandaMbande/portfolio_app) | My personal developer portfolio showcasing my work, skills, and experience. | HTML, CSS, JavaScript |
-| [EasyBooking](https://github.com/YolandaMbande/easybooking) | A web-based booking application project. | Laravel, PHP |
-| [LinkCard](https://link-card-woad.vercel.app/) | A personalised digital link-sharing page with responsive design and theme switching. | HTML, CSS, JavaScript |
-| NestaShots | A photography portfolio website with an interactive gallery and project details. | HTML, CSS, JavaScript |
+| **[Portfolio Website](https://github.com/YolandaMbande/portfolio_app)** | HTML, CSS, JavaScript | Personal developer portfolio showcasing my projects, technical skills, and experience. |
+| **[EasyBooking](https://github.com/YolandaMbande/easybooking)** | PHP, Laravel | Web-based booking application built using Laravel. |
+| **[LinkCard](https://link-card-woad.vercel.app/)** | HTML, CSS, JavaScript | Personalised digital link-sharing website with responsive layouts and theme switching. |
+| **NestaShots** | HTML, CSS, JavaScript | Photography portfolio featuring interactive galleries, image previews, and project details. |
 
----
+<br/>
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YolandaMbande&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YolandaMbande&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+### 📊 GitHub Stats
 
----
+<div align="center">
 
-## 🌐 Let's Connect
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YolandaMbande&theme=tokyonight&hide_border=true" width="90%" alt="GitHub Streak" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YolandaMbande)
+<br/>
 
----
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YolandaMbande&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+</div>
+
+<br/>
+
+### 🔗 Connect
+
+<div align="center">
+
+<a href="https://github.com/YolandaMbande">
+<img src="https://img.shields.io/badge/GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 *Made of stories, powered by curiosity, and always building something new.* ✨
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:6D28D9&height=150&section=footer" width="100%"/>
